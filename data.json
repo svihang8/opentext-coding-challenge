@@ -1,0 +1,426 @@
+[
+    {
+        "product_name": "Adoption Readiness Tool ",
+        "starting_letter": "A",
+        "description": "An interactive e-Learning software platform to manage rapid content development, increase user adoption and accelerate ROI.",
+        "demo_url": "mailto:ART-Demo@microfocus.com",
+        "support_url": "https://www.microfocus.com/en-us/support/Adoption%20Readiness%20Tool%20(ART)",
+        "community_url": "https://community.microfocus.com/welcome_to_the_community/adoption-readiness-tool/"
+    },
+    {
+        "product_name": "ALM / Quality Center",
+        "starting_letter": "A",
+        "description": "Govern application lifecycle activities to ensure alignment with business objective and quality standard.",
+        "demo_url": "https://www.microfocus.com/en-us/products/alm-quality-center/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "ALM Octane",
+        "starting_letter": "A",
+        "description": "High-quality application delivery at enterprise scale. For Agile, Hybrid or Traditional teams.",
+        "demo_url": "https://www.microfocus.com/en-us/products/alm-octane/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "ArcSight Intelligence",
+        "starting_letter": "A",
+        "description": "ArcSight Intelligence augments existing security tools and empowers security operations teams to identify and respond to the threats that matter.",
+        "demo_url": "https://www.microfocus.com/en-us/products/arcsight-intelligence/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "ArcSight Intelligence for CrowdStrike",
+        "starting_letter": "A",
+        "description": "Advanced Behavioral Analytics tool for CrowdStrike that empowers security operations teams to find and respond to insider & advanced persistent threats before it\u2019s too late.",
+        "demo_url": "https://www.microfocus.com/en-us/products/arcsight-intelligence-for-crowdstrike/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "ArcSight Recon",
+        "starting_letter": "A",
+        "description": "Implement a SIEM log management solution created for security analytics, investigation, and compliance.",
+        "demo_url": "https://www.microfocus.com/en-us/products/arcsight-recon/free-trial",
+        "support_url": "https://www.microfocus.com/en-us/support/ArcSight%20Recon",
+        "community_url": "https://community.microfocus.com/cyberres/arcsight/"
+    },
+    {
+        "product_name": "Asset Management X",
+        "starting_letter": "A",
+        "description": "Manage IT assets for improved costs.",
+        "demo_url": "https://www.microfocus.com/en-us/products/asset-management-software/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Cloud Optimizer",
+        "starting_letter": "C",
+        "description": "Monitoring, capacity and performance management for virtualized environments",
+        "demo_url": "https://www.microfocus.com/en-us/products/cloud-optimizer/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Content Manager Cloud",
+        "starting_letter": "C",
+        "description": "Flexible enterprise content management software - in the cloud, delivered in a SaaS model.",
+        "demo_url": "https://www.microfocus.com/en-us/products/enterprise-content-management-saas/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Data Protector",
+        "starting_letter": "D",
+        "description": "Backup and disaster recovery for diverse, dynamic, and distributed enterprise.",
+        "demo_url": "https://www.microfocus.com/en-us/products/data-protector-backup-recovery-software/free-trial",
+        "support_url": "https://www.microfocus.com/en-us/support/Data%20Protector",
+        "community_url": "https://community.microfocus.com/img/bandr/"
+    },
+    {
+        "product_name": "Data Protector for Cloud Workloads",
+        "starting_letter": "D",
+        "description": "A modern backup protection solution, ensuring disaster recovery and fast ransomware restore for Microsoft 365, containers, hypervisors, and cloud platforms.",
+        "demo_url": "https://www.microfocus.com/en-us/products/data-protector-for-cloud-workloads/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Dimensions RM",
+        "starting_letter": "D",
+        "description": "Requirements management solution that provides end-to-end traceability of processes",
+        "demo_url": "https://www.microfocus.com/products/dimensions-rm/trial/",
+        "support_url": "https://www.microfocus.com/en-us/support/Dimensions%20RM",
+        "community_url": "https://community.microfocus.com/adtd/dimensionsrm/"
+    },
+    {
+        "product_name": "Enterprise Suite",
+        "starting_letter": "E",
+        "description": "Analysis, development, test, and deployment solutions for IBM z Systems",
+        "demo_url": "https://www.microfocus.com/en-us/products/enterprise-suite/request-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Filr",
+        "starting_letter": "F",
+        "description": "Provides secure file access and sharing from any device",
+        "demo_url": "https://www.microfocus.com/en-us/products/filr/request-demo",
+        "support_url": "https://www.microfocus.com/en-us/support/Filr",
+        "community_url": "https://community.microfocus.com/collaboration/filr/"
+    },
+    {
+        "product_name": "Fortify on Demand",
+        "starting_letter": "F",
+        "description": "Application Security as a managed service",
+        "demo_url": "https://www.microfocus.com/en-us/products/application-security-testing/free-trial",
+        "support_url": "https://www.microfocus.com/en-us/support/Fortify%20on%20Demand",
+        "community_url": "https://community.microfocus.com/cyberres/fortify/"
+    },
+    {
+        "product_name": "Fortify WebInspect",
+        "starting_letter": "F",
+        "description": "Provides comprehensive dynamic analysis of complex web applications and services",
+        "demo_url": "https://www.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/request-demo",
+        "support_url": "https://www.microfocus.com/en-us/support/Fortify%20WebInspect",
+        "community_url": "https://community.microfocus.com/cyberres/fortify/"
+    },
+    {
+        "product_name": "HCMX FinOps Express",
+        "starting_letter": "H",
+        "description": "Optimize your cloud costs. Cut waste and control spend with Micro Focus HCMX FinOps Express.",
+        "demo_url": "https://www.microfocus.com/en-us/products/finops-express/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Hybrid Cloud Management X",
+        "starting_letter": "H",
+        "description": "Easier and enhanced multi cloud management. Deploy business customized solutions with flexibility and speed.",
+        "demo_url": "https://www.microfocus.com/en-us/products/hybrid-cloud-management-x/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "IDOL",
+        "starting_letter": "I",
+        "description": "Securely access and analyze enterprise (and public) text, audio, and video data.",
+        "demo_url": "https://www.microfocus.com/en-us/products/information-data-analytics-idol/request-demo",
+        "support_url": "https://www.microfocus.com/en-us/support/IDOL",
+        "community_url": "https://community.microfocus.com/t5/IDOL/ct-p/IDOL"
+    },
+    {
+        "product_name": "Law Enforcement Media Analysis",
+        "starting_letter": "L",
+        "description": "Digital forensics for organizations processing video and image evidence who need to identify and extract facts during an investigation \u2013 Powered by IDOL.",
+        "demo_url": "https://www.microfocus.com/en-us/products/law-enforcement-media-analysis/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "LoadRunner Cloud",
+        "starting_letter": "L",
+        "description": "Simple and scalable SaaS delivered performance testing solution.",
+        "demo_url": "https://www.microfocus.com/en-us/products/loadrunner-cloud/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "LoadRunner Enterprise",
+        "starting_letter": "L",
+        "description": "Cross-enterprise performance testing for multiple and concurrent testing projects",
+        "demo_url": "https://www.microfocus.com/en-us/products/loadrunner-enterprise/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "LoadRunner Professional",
+        "starting_letter": "L",
+        "description": "The premium, market leading performance testing solution for project teams.",
+        "demo_url": "https://www.microfocus.com/en-us/products/loadrunner-professional/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "NetIQ Advanced Authentication ",
+        "starting_letter": "N",
+        "description": "Move beyond username and passwords and securely protect data and applications",
+        "demo_url": "https://www.netiq.com/products/advanced-authentication/download/",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "NetIQ Data Access Governance (DAG)",
+        "starting_letter": "N",
+        "description": "Expand identity and access management (IAM) to include unstructured data.",
+        "demo_url": "https://www.microfocus.com/en-us/products/data-access-governance/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Network Automation",
+        "starting_letter": "N",
+        "description": "Drive automated configuration, change and security compliance across your enterprise network. The capabilities of Network Automation are also included in Network Operations Management.",
+        "demo_url": "https://www.microfocus.com/en-us/products/network-automation/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Network Node Manager i",
+        "starting_letter": "N",
+        "description": "Unifies fault, availability, and performance monitoring for networks. The capabilities of Network Node Manager i are also included in Network Operations Management.",
+        "demo_url": "https://www.microfocus.com/en-us/products/network-node-manager-i-network-management-software/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Network Operations Management Suite",
+        "starting_letter": "N",
+        "description": "Monitor, manage, troubleshoot, automate, and ensure compliance for traditional, virtual, and software-defined networks (SDN). Network Operations Management includes the functionality of Network Node Manager i, Network Automation, and more.",
+        "demo_url": "https://www.microfocus.com/en-us/products/network-operations-management-suite/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Open Source Select Enterprise",
+        "starting_letter": "O",
+        "description": "See how Select Enterprise works and get answers on how this benefits your organization.",
+        "demo_url": "https://www.microfocus.com/en-us/products/open-source-select-enterprise/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "OpenText Analytics Database Enterprise Edition ",
+        "starting_letter": "O",
+        "description": "Vertica Analytics Database is the leading unified analytics warehouse and data lake",
+        "demo_url": "https://www.microfocus.com/en-us/products/analytics-database/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Operations Bridge",
+        "starting_letter": "O",
+        "description": "AIOps for Cloud Monitoring - Automated event and performance monitoring for multi-cloud and on-premises environments as well as complete application health management including synthetic and real user application monitoring and diagnostics. The capabilities of Business Process Monitor, Real User Monitor, and Diagnostics are included in Operations Bridge.",
+        "demo_url": "https://www.microfocus.com/en-us/products/operations-bridge/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Operations Bridge Integration Hub",
+        "starting_letter": "O",
+        "description": "Integration of Operations Bridge to many 3rd party monitoring and ticketing tools. Customers download here.",
+        "demo_url": "https://www.microfocus.com/en-us/products/operations-bridge-integration-hub/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Operations Bridge Integration Hub for Partners",
+        "starting_letter": "O",
+        "description": "Integration of Operations Bridge to many 3rd party monitoring and ticketing tools. Partners download here.",
+        "demo_url": "https://www.microfocus.com/en-us/products/operations-bridge-integration-hub1-instance/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Operations Bridge Manager",
+        "starting_letter": "O",
+        "description": "Operations Bridge Manager (OBM) is the core component of the Operations Bridge, it automatically discovers and correlates data, event topology, and metrics. Data comes from agents and connectors.",
+        "demo_url": "https://www.microfocus.com/en-us/products/operations-bridge-manager/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Operations Orchestration with RPA",
+        "starting_letter": "O",
+        "description": "Orchestrate end-to-end IT processes with outstanding agility.",
+        "demo_url": "https://www.microfocus.com/en-us/products/operations-orchestration-it-process-automation/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Retain Unified Archiving",
+        "starting_letter": "R",
+        "description": "Archive all business communication for case assessment, search, and eDiscovery.",
+        "demo_url": "https://www.microfocus.com/en-us/products/retain-unified-archiving/request-demo",
+        "support_url": "https://www.microfocus.com/en-us/support/Retain%20Unified%20Archiving",
+        "community_url": "https://community.microfocus.com/t5/Retain/ct-p/Retain"
+    },
+    {
+        "product_name": "Server Automation",
+        "starting_letter": "S",
+        "description": "Automate server lifecycle management across heterogeneous server environments.",
+        "demo_url": "https://www.microfocus.com/en-us/products/server-automation-software/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Service Management Automation X (SMAX)",
+        "starting_letter": "S",
+        "description": "Machine learning-based ITSM and ESM software to meet all your service desk and IT service management needs.",
+        "demo_url": "https://www.microfocus.com/en-us/products/service-management-automation-suite/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "SiteScope",
+        "starting_letter": "S",
+        "description": "Agentless application monitoring that provides heterogeneous and hybrid support, and quick time to value with easy installation and configuration.",
+        "demo_url": "https://www.microfocus.com/en-us/products/sitescope-application-monitoring/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "UFT Developer",
+        "starting_letter": "U",
+        "description": "UFT Developer is a shift-left functional test automation tool that enables easy test creation using the IDE, language, and testing frameworks of choice",
+        "demo_url": "https://www.microfocus.com/en-us/products/uft-developer/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "UFT Digital Lab",
+        "starting_letter": "U",
+        "description": "A lab of real devices to help you build an app experience from real-world insights",
+        "demo_url": "https://www.microfocus.com/en-us/products/uft-digital-lab/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "UFT Mobile",
+        "starting_letter": "U",
+        "description": "A lab of real devices to help you build an app experience from real-world insights",
+        "demo_url": "https://www.microfocus.com/en-us/products/uft-mobile/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "UFT One",
+        "starting_letter": "U",
+        "description": "UFT One automates functional testing for web, mobile, API, RPA, and enterprise application software, increasing test coverage from the UI to the API.",
+        "demo_url": "https://www.microfocus.com/en-us/products/uft-one/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Universal Discovery and Universal CMDB",
+        "starting_letter": "U",
+        "description": "Collects, stores, manages, updates, and shows data on infrastructure configuration",
+        "demo_url": "https://www.microfocus.com/en-us/products/configuration-management-system-database/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Unstructured Data Analytics OEM SDK \u2013 Powered by IDOL",
+        "starting_letter": "U",
+        "description": "Unstructured Data Analytics OEM SDK \u2013 Powered by IDOL",
+        "demo_url": "https://www.microfocus.com/en-us/products/unstructured-data-analytics-oem-sdk/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "ValueEdge\u2122 Platform ",
+        "starting_letter": "V",
+        "description": "Accelerate, monitor, and orchestrate digital value streams",
+        "demo_url": "https://www.microfocus.com/en-us/products/valueedge/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "VM Explorer",
+        "starting_letter": "V",
+        "description": "VM backup and replication for VMware vSphere and Microsoft Hyper-V environments.",
+        "demo_url": "https://www.microfocus.com/en-us/products/vm-server-backup/request-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Voltage Fusion ",
+        "starting_letter": "V",
+        "description": "Quickly find, protect, and secure your sensitive and high-value data with Voltage Fusion.",
+        "demo_url": "https://www.microfocus.com/en-us/products/voltage-file-analysis-suite/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Voltage Fusion ",
+        "starting_letter": "V",
+        "description": "Quickly find, protect, and secure your sensitive and high-value data with Voltage Fusion.",
+        "demo_url": "https://www.microfocus.com/en-us/products/voltage-fusion/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Voltage SecureData Integrations for Snowflake ",
+        "starting_letter": "V",
+        "description": "Enabling high-scale, high-performance, and secure data analytics, data science and data sharing.",
+        "demo_url": "https://www.microfocus.com/en-us/products/voltage-securedata-for-snowflake/request-demo",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "Voltage SecureMail",
+        "starting_letter": "V",
+        "description": "Achieving email security with an end-to-end email encryption solution without impacting the user experience.",
+        "demo_url": "https://www.microfocus.com/products/cloud-email-encryption/free-trial",
+        "support_url": "https://www.microfocus.com/en-us/support/Voltage%20SecureMail",
+        "community_url": "https://community.microfocus.com/t5/Voltage/ct-p/Voltage"
+    },
+    {
+        "product_name": "Voltage SecureMail Cloud",
+        "starting_letter": "V",
+        "description": "SaaS service for the protection of your most sensitive information and your email transition to Office 365.",
+        "demo_url": "https://www.microfocus.com/en-us/products/cloud-email-encryption/free-trial",
+        "support_url": "",
+        "community_url": ""
+    },
+    {
+        "product_name": "ZENworks Suite",
+        "starting_letter": "Z",
+        "description": "ZENworks Suite helps you easily track, manage, and protect your endpoint devices.",
+        "demo_url": "https://www.microfocus.com/products/zenworks/trial/",
+        "support_url": "",
+        "community_url": ""
+    }
+]
